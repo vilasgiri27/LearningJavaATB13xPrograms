@@ -9,6 +9,8 @@ public class Lab005 {
             System.out.println("hello world-3");
             System.out.println("hello world-4");
             System.out.println("hello 5");
+            System.out.println("hello 6");
+
         }
     }
 }
